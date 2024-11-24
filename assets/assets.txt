@@ -1,5 +1,5 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-84295f6a18ced52ee6ca58ccef0b17cb.txt:2881:text/plain:1
+t:assets.txt:assets-489da242e767c5e2a3f85bf5a7a4887b.txt:3179:text/plain:1
 d:audio:audio:0:application/unknown:1
 a:audio/down.mp3:audio/down-1aa81701277ddc291b2d42bfd64e76f2.mp3:3218:audio/mpeg:1
 a:audio/hover.mp3:audio/hover-6a43485029beb101f7663c9a7b919214.mp3:2762:audio/mpeg:1
@@ -138,8 +138,21 @@ i:letters/x.png:letters/x-aba8d0829944a56221cfd84fe7293922.png:5711:image/png:1
 i:letters/y.png:letters/y-6afe3fa25b40e6cd201d73bc9bb0db3d.png:5486:image/png:1
 i:letters/z.png:letters/z-cd67ba0aac88d2e7cc27ac61451c227a.png:5248:image/png:1
 d:lexicon:lexicon:0:application/unknown:1
-t:lexicon/dictionary.txt:lexicon/dictionary-64f12cf5299be5d360e04001188c960a.txt:1040:text/plain:1
+t:lexicon/dictionary.txt:lexicon/dictionary-066be6a4e343aaf503f2dadf64a2ce48.txt:2255:text/plain:1
 i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
+d:tutorial:tutorial:0:application/unknown:1
+d:tutorial/gifs:tutorial/gifs:0:application/unknown:1
+i:tutorial/gifs/answer.gif:tutorial/gifs/answer-c7c8c6ff82dcd26c032915e7a9cd2d55.gif:237879:image/gif:1
+i:tutorial/gifs/fullguess.gif:tutorial/gifs/fullguess-ba43b7844db6b4cb964fe36173e380c5.gif:1299989:image/gif:1
+i:tutorial/gifs/guess.gif:tutorial/gifs/guess-169d1eedcda21de7f9cbaf3c37560125.gif:391845:image/gif:1
+d:tutorial/gifs/letter_white:tutorial/gifs/letter_white:0:application/unknown:1
+i:tutorial/gifs/letter_white/blinking.gif:tutorial/gifs/letter_white/blinking-f3699040b726a7402657819c74af8b8e.gif:139864:image/gif:1
+i:tutorial/gifs/letter_white/click.gif:tutorial/gifs/letter_white/click-b737676ba98cfba7edf471760d8e4406.gif:94576:image/gif:1
+i:tutorial/gifs/letter_white/white.gif:tutorial/gifs/letter_white/white-d01bcad98e65c0ed917b4fede2a713ee.gif:74093:image/gif:1
+i:tutorial/gifs/letter_white/white_loop.gif:tutorial/gifs/letter_white/white_loop-23e65c6a043bacbce7ecfb1cccb4237d.gif:74093:image/gif:1
+i:tutorial/gifs/tries.gif:tutorial/gifs/tries-1509bc7fd03f24180725566f89d3026c.gif:408294:image/gif:1
+i:tutorial/gifs/wrong.gif:tutorial/gifs/wrong-6bf0170ddde84f7158e0e22c6a51d533.gif:418599:image/gif:1
+i:tutorial/how.jpg:tutorial/how-b47ae8889644091117a9ff3a8b016307.jpg:41004:image/jpeg:1
 d:ui:ui:0:application/unknown:1
 t:ui/def (2).fnt:ui/def (2)-ef48ee65ee97c76b6da3d961a4bed379.fnt:5372:application/unknown:1
 t:ui/def (3).fnt:ui/def (3)-2a02b86423eb2eb563897cb8f8233e9c.fnt:7425:application/unknown:1
