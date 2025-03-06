@@ -141,6 +141,7 @@ tutorial/gifs/letter_white/white_loop.gif
 tutorial/gifs/tries.gif
 tutorial/gifs/wrong.gif
 tutorial/how.jpg
+tutorial/how2.jpg
 ui/def (2).fnt
 ui/def (3).fnt
 ui/def (4).fnt

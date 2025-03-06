@@ -21,29 +21,57 @@ Vehicle Identification Number
 Zone Improvement Plan
 Compact Disc Read Only Memory
 Digital Versatile Disc
+Operating System
+Graphics Processing Unit
+Power Supply Unit
+Central Processing Unit
+Arithmetic Logic Unit
+Portable Document Format
 Graphics Interchange Format
 Joint Photographic Experts Group
+Portable Network Graphic
 Java Script Object Notation
 Random Access Memory
+Read Only Memory
+Universal Serial Bus
+Uninterruptible Power Supply
+Cathode Ray Tube
+Code Division Multiple Access
+Global System for Mobiles
+Computer Aided Design
+Command Line Interface
+Comma Seperated Values
 Uniform Resource Locator
 Federal Emergency Management Agency
 Special Weapons And Tactics
 Unauthorized Absence
+American Standard Code for Information Interchange
 Absent With Out Leave
 Basic Input Output System
 National Aeronautics and Space Administration
-Hypertext Transfer Protocol
+Serial Interface Unit
+Peripheral Component Interconnect
+Address Resolution Protocol
+Hyper Text Transfer Protocol
+Hyper Text Transfer Protocol Secure
+Internet Message Access Protocol
 Uniform Resource Locator
 Internet Protocol
 Domain Name System
 File Transfer Protocol
-Application Programming Interface
 Graphical User Interface
+Network Interface Card
+Media Access Control
 Integrated Development Environment
-JavaScript Object Notation
-Hypertext Markup Language
+Hyper Text Markup Language
+Dynamic Host Configuration Protocol
+Transmission Control Protocol
 Cascading Style Sheets
 Object Oriented Programming
+Central Processing Unit
+Non Volatile Memory Express
+Internet Service Provider
+Software As A Service
 Create Read Update Delete
 Dont Repeat Yourself
 Keep It Simple Stupid
@@ -56,8 +84,8 @@ Frames Per Second
 Role Playing Game
 Massively Multiplayer Online Role Playing Game
 Artificial Intelligence
-Level of Detail
-Return on Investment
+Level Of Detail
+Return On Investment
 Key Performance Indicator
 Objectives and Key Results
 Chief Executive Officer
@@ -77,3 +105,4 @@ Do It Yourself
 For Your Information
 To Be Determined
 Estimated Time of Arrival
+North Atlantic Treaty Organization
