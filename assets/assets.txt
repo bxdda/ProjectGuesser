@@ -138,7 +138,7 @@ i:letters/x.png:letters/x-aba8d0829944a56221cfd84fe7293922.png:5711:image/png:1
 i:letters/y.png:letters/y-6afe3fa25b40e6cd201d73bc9bb0db3d.png:5486:image/png:1
 i:letters/z.png:letters/z-cd67ba0aac88d2e7cc27ac61451c227a.png:5248:image/png:1
 d:lexicon:lexicon:0:application/unknown:1
-t:lexicon/dictionary.txt:lexicon/dictionary-bef96976ca4498ba58722ad5940f8ff6.txt:3039:text/plain:1
+t:lexicon/dictionary.txt:lexicon/dictionary-c5c7f15dd00491e4541d2c805201946b.txt:3782:text/plain:1
 i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
 d:tutorial:tutorial:0:application/unknown:1
 d:tutorial/gifs:tutorial/gifs:0:application/unknown:1
