@@ -1,3 +1,8 @@
+.lwjgl/3.3.3+5/x64/OpenAL.dll
+.lwjgl/3.3.3+5/x64/glfw.dll
+.lwjgl/3.3.3+5/x64/jemalloc.dll
+.lwjgl/3.3.3+5/x64/lwjgl.dll
+.lwjgl/3.3.3+5/x64/lwjgl_opengl.dll
 audio/down.mp3
 audio/hover.mp3
 audio/up.mp3
@@ -103,6 +108,8 @@ letters/y.png
 letters/z.png
 lexicon/dictionary.txt
 libgdx.png
+logo/logo.png
+logo/logo2.png
 tutorial/gifs/answer.gif
 tutorial/gifs/fullguess.gif
 tutorial/gifs/guess.gif
@@ -128,4 +135,3 @@ ui/pre_particle.png
 ui/uiskin.atlas
 ui/uiskin.json
 ui/uiskin.png
-ui/vertopal.com_Roboto-Bold.zip
