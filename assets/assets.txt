@@ -109,7 +109,7 @@ i:letters/x.png:letters/x-43be8b89bc761e71a5ece902b84fc18d.png:4789:image/png:1
 i:letters/y.png:letters/y-0806940dddf12f39037de1fd720d5e07.png:3377:image/png:1
 i:letters/z.png:letters/z-a436a917fc27920d0ee813b0c4a5afd0.png:3075:image/png:1
 d:lexicon:lexicon:0:application/unknown:1
-t:lexicon/dictionary.txt:lexicon/dictionary-37757cd923246de5587dc7411d617616.txt:3888:text/plain:1
+t:lexicon/dictionary.txt:lexicon/dictionary-cac2a7fc2658cec035051997e76b697b.txt:3875:text/plain:1
 i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
 d:logo:logo:0:application/unknown:1
 i:logo/logo.png:logo/logo-2bc416deadcc505677b8166745161944.png:42399:image/png:1

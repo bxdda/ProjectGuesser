@@ -85,10 +85,10 @@ Pretty Good Privacy
 Deoxyribo Nucleic Acid
 Application Programming Interface
 Frames Per Second
-Rivest-Shamir-Adleman (encryption)
 Universal Serial Bus
 Away From Keyboard
 Central Processing Unit
+Rivest Shamir Adleman
 Federal Emergency Management Agency
 As Soon As Possible
 Intensive Care Unit
