@@ -171,7 +171,10 @@ ui/r_white2.png
 ui/r_white3.png
 ui/uiskin.atlas
 ui/uiskin.json
+ui/uiskin.png
 ui/uiskin2.atlas
 ui/uiskin2.json
+ui/uiskin2.png
 ui/uiskin3.atlas
 ui/uiskin3.json
+ui/uiskin3.png

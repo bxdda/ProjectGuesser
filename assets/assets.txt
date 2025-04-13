@@ -1,5 +1,5 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-0dadee5dcdc25a0dd837954c56063548.txt:3431:text/plain:1
+t:assets.txt:assets-ced63e2c37245fcf2671694035bd9a92.txt:3475:text/plain:1
 d:audio:audio:0:application/unknown:1
 a:audio/click.mp3:audio/click-b89a832ab527ead26429b68724df094b.mp3:1730:audio/mpeg:1
 a:audio/declick.mp3:audio/declick-d26491f888df38f1df378b52b2ce7d92.mp3:2810:audio/mpeg:1
@@ -180,10 +180,13 @@ i:ui/r_white2.png:ui/r_white2-2cddac632263467702fd19fa014a7c49.png:47105:image/p
 i:ui/r_white3.png:ui/r_white3-2b8e5ca4825874a9cca222dafb0f8153.png:48724:image/png:1
 t:ui/uiskin.atlas:ui/uiskin-a209e81722e700628a54da042464ea51.atlas:2892:application/unknown:1
 t:ui/uiskin.json:ui/uiskin-9c6b27da4ae7768f54606f39cdbfa2c4.json:2844:application/unknown:1
+i:ui/uiskin.png:ui/uiskin-e04759dbd482b3d873a5473675176d04.png:22779:image/png:1
 t:ui/uiskin2.atlas:ui/uiskin2-a209e81722e700628a54da042464ea51.atlas:2892:application/unknown:1
 t:ui/uiskin2.json:ui/uiskin2-4f3d4c34dfe819dd30582f67abfa4866.json:2843:application/unknown:1
+i:ui/uiskin2.png:ui/uiskin2-e04759dbd482b3d873a5473675176d04.png:22779:image/png:1
 t:ui/uiskin3.atlas:ui/uiskin3-a209e81722e700628a54da042464ea51.atlas:2892:application/unknown:1
 t:ui/uiskin3.json:ui/uiskin3-5bc464e096618bcac2c1e13da7759f2c.json:2843:application/unknown:1
+i:ui/uiskin3.png:ui/uiskin3-e04759dbd482b3d873a5473675176d04.png:22779:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
