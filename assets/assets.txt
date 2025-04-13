@@ -1,9 +1,13 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-32f28c58dd1800c0d53afd9b3ef94576.txt:2717:text/plain:1
+t:assets.txt:assets-0dadee5dcdc25a0dd837954c56063548.txt:3431:text/plain:1
 d:audio:audio:0:application/unknown:1
+a:audio/click.mp3:audio/click-b89a832ab527ead26429b68724df094b.mp3:1730:audio/mpeg:1
+a:audio/declick.mp3:audio/declick-d26491f888df38f1df378b52b2ce7d92.mp3:2810:audio/mpeg:1
 a:audio/down.mp3:audio/down-1aa81701277ddc291b2d42bfd64e76f2.mp3:3218:audio/mpeg:1
+a:audio/enter.mp3:audio/enter-b9df707cefc9e9702b5958d10e919e30.mp3:1994:audio/mpeg:1
 a:audio/hover.mp3:audio/hover-6a43485029beb101f7663c9a7b919214.mp3:2762:audio/mpeg:1
-a:audio/up.mp3:audio/up-6ad3d0c24f5226502f1f524b98b82771.mp3:3770:audio/mpeg:1
+a:audio/up.mp3:audio/up-072bae934544edbe7c05682020ba70c4.mp3:3074:audio/mpeg:1
+a:audio/up_old.mp3:audio/up_old-6ad3d0c24f5226502f1f524b98b82771.mp3:3770:audio/mpeg:1
 d:font:font:0:application/unknown:1
 t:font/LICENSE.txt:font/LICENSE-d273d63619c9aeaf15cdaf76422c4f87.txt:11560:text/plain:1
 b:font/Roboto-Black.ttf:font/Roboto-Black-53ab4bb513d53af898e25637a2750ffc.ttf:168060:application/unknown:1
@@ -18,6 +22,20 @@ b:font/Roboto-MediumItalic.ttf:font/Roboto-MediumItalic-18191c4ed1413aac2700bbfa
 b:font/Roboto-Regular.ttf:font/Roboto-Regular-327362a7c8d487ad3f7970cc8e2aba8d.ttf:168260:application/unknown:1
 b:font/Roboto-Thin.ttf:font/Roboto-Thin-8e1900eabb62e4e502ee3de329e0b833.ttf:168488:application/unknown:1
 b:font/Roboto-ThinItalic.ttf:font/Roboto-ThinItalic-0d058ce1aecaa16d26b71bdab2be31b0.ttf:172860:application/unknown:1
+t:font/r_black.fnt:font/r_black-414948c9a21a0d286d0b7315c9b857ba.fnt:17508:application/unknown:1
+i:font/r_black.png:font/r_black-54fb41bd3d2bf34c9fe3062827135713.png:15933:image/png:1
+t:font/r_bold.fnt:font/r_bold-f5782470a3f286629b4b964d23386713.fnt:17507:application/unknown:1
+i:font/r_bold.png:font/r_bold-54fb41bd3d2bf34c9fe3062827135713.png:15933:image/png:1
+t:font/r_bolder.fnt:font/r_bolder-bbca4a7204c7f6409d25af69c213da51.fnt:28074:application/unknown:1
+i:font/r_bolder1.png:font/r_bolder1-dc9edab05cd9100befa8cb514afc8984.png:30344:image/png:1
+i:font/r_bolder2.png:font/r_bolder2-4cf38a6c75cab0bae5a6532b3ff371c6.png:25051:image/png:1
+i:font/r_bolder3.png:font/r_bolder3-f41d355ef1891730cbcbe639945ad778.png:25597:image/png:1
+t:font/r_med.fnt:font/r_med-fcefdcb8eb987659c5ba8e5e60fe03ef.fnt:17355:application/unknown:1
+i:font/r_med.png:font/r_med-25bd279d5c920d2fa23c2e3969970560.png:15227:image/png:1
+t:font/r_white.fnt:font/r_white-1ab25ba50fccaeb2d30f6fae7aa20e6a.fnt:28071:application/unknown:1
+i:font/r_white1.png:font/r_white1-bad2142528b9779d127896bc7cf53b0a.png:59209:image/png:1
+i:font/r_white2.png:font/r_white2-2cddac632263467702fd19fa014a7c49.png:47105:image/png:1
+i:font/r_white3.png:font/r_white3-2b8e5ca4825874a9cca222dafb0f8153.png:48724:image/png:1
 d:letters:letters:0:application/unknown:1
 i:letters/a.png:letters/a-702a591865ea3761d4217e5b6b3a67f5.png:4010:image/png:1
 i:letters/b.png:letters/b-a1e8e293f5151e049b221dbff7b4db1a.png:3603:image/png:1
@@ -114,6 +132,8 @@ i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
 d:logo:logo:0:application/unknown:1
 i:logo/logo.png:logo/logo-2bc416deadcc505677b8166745161944.png:42399:image/png:1
 i:logo/logo2.png:logo/logo2-58e3d4c35314d3db0bba07ad7e217908.png:40494:image/png:1
+i:logo/LOGO5.png:logo/LOGO5-25f662d4756e84b854523647614e1c3c.png:13483:image/png:1
+i:logo/LOGO6.png:logo/LOGO6-6318871baa565c614fbed07eea8f947a.png:8659:image/png:1
 d:tutorial:tutorial:0:application/unknown:1
 d:tutorial/gifs:tutorial/gifs:0:application/unknown:1
 i:tutorial/gifs/answer.gif:tutorial/gifs/answer-c7c8c6ff82dcd26c032915e7a9cd2d55.gif:237879:image/gif:1
@@ -130,19 +150,40 @@ i:tutorial/how.jpg:tutorial/how-b47ae8889644091117a9ff3a8b016307.jpg:41004:image
 i:tutorial/how2.jpg:tutorial/how2-ee71f74351d34730483377f80382c3c4.jpg:39942:image/jpeg:1
 i:tutorial/howToPlay.png:tutorial/howToPlay-82559e6f28e268ad8a6fe7b902e253b5.png:48263:image/png:1
 i:tutorial/howToPlayInvert.png:tutorial/howToPlayInvert-4caf4f610b124037f1001fc0c727630f.png:48341:image/png:1
+i:tutorial/howToPlayX.png:tutorial/howToPlayX-58ff264ead5ba8a8705f9877bff6c0c5.png:52555:image/png:1
 d:ui:ui:0:application/unknown:1
-t:ui/def (2).fnt:ui/def (2)-ef48ee65ee97c76b6da3d961a4bed379.fnt:5372:application/unknown:1
-t:ui/def (3).fnt:ui/def (3)-2a02b86423eb2eb563897cb8f8233e9c.fnt:7425:application/unknown:1
-t:ui/def (4).fnt:ui/def (4)-da2e3fda8d99910059bf2861ca5e3e4d.fnt:8453:application/unknown:1
-t:ui/def.fnt:ui/def-12d3928a7e6d83986c80a350445e80f6.fnt:4401:application/unknown:1
-t:ui/default.fnt:ui/default-45e0ca59f6edfd515f6dbd5f98d58a0d.fnt:11628:application/unknown:1
-i:ui/default.png:ui/default-2a791ed19cce1d97a9082ae4e368f584.png:26179:image/png:1
 b:ui/defaultTemplate.pfx:ui/defaultTemplate-998ed2bd50dc51914ca21cf268dde62e.pfx:2409:application/unknown:1
-i:ui/particle.png:ui/particle-80cd2ffbc5f91c261029362bd8e97f65.png:1821:image/png:1
-i:ui/pre_particle.png:ui/pre_particle-9724a86f85333b0472056acfe5571d6e.png:1465:image/png:1
+d:ui/old:ui/old:0:application/unknown:1
+t:ui/old/def (2).fnt:ui/old/def (2)-ef48ee65ee97c76b6da3d961a4bed379.fnt:5372:application/unknown:1
+t:ui/old/def (3).fnt:ui/old/def (3)-2a02b86423eb2eb563897cb8f8233e9c.fnt:7425:application/unknown:1
+t:ui/old/def (4).fnt:ui/old/def (4)-da2e3fda8d99910059bf2861ca5e3e4d.fnt:8453:application/unknown:1
+t:ui/old/def.fnt:ui/old/def-12d3928a7e6d83986c80a350445e80f6.fnt:4401:application/unknown:1
+t:ui/old/default.fnt:ui/old/default-45e0ca59f6edfd515f6dbd5f98d58a0d.fnt:11628:application/unknown:1
+i:ui/old/default.png:ui/old/default-2a791ed19cce1d97a9082ae4e368f584.png:26179:image/png:1
+i:ui/old/particle.png:ui/old/particle-80cd2ffbc5f91c261029362bd8e97f65.png:1821:image/png:1
+i:ui/old/pre_particle.png:ui/old/pre_particle-9724a86f85333b0472056acfe5571d6e.png:1465:image/png:1
+t:ui/old/r_bold.fnt:ui/old/r_bold-f5782470a3f286629b4b964d23386713.fnt:17507:application/unknown:1
+i:ui/old/r_bold.png:ui/old/r_bold-54fb41bd3d2bf34c9fe3062827135713.png:15933:image/png:1
+t:ui/old/r_med.fnt:ui/old/r_med-fcefdcb8eb987659c5ba8e5e60fe03ef.fnt:17355:application/unknown:1
+i:ui/old/r_med.png:ui/old/r_med-25bd279d5c920d2fa23c2e3969970560.png:15227:image/png:1
+i:ui/old/uiskin.png:ui/old/uiskin-e04759dbd482b3d873a5473675176d04.png:22779:image/png:1
+i:ui/old/uiskin2.png:ui/old/uiskin2-e04759dbd482b3d873a5473675176d04.png:22779:image/png:1
+t:ui/r_black.fnt:ui/r_black-414948c9a21a0d286d0b7315c9b857ba.fnt:17508:application/unknown:1
+i:ui/r_black.png:ui/r_black-54fb41bd3d2bf34c9fe3062827135713.png:15933:image/png:1
+t:ui/r_bolder.fnt:ui/r_bolder-bbca4a7204c7f6409d25af69c213da51.fnt:28074:application/unknown:1
+i:ui/r_bolder1.png:ui/r_bolder1-dc9edab05cd9100befa8cb514afc8984.png:30344:image/png:1
+i:ui/r_bolder2.png:ui/r_bolder2-4cf38a6c75cab0bae5a6532b3ff371c6.png:25051:image/png:1
+i:ui/r_bolder3.png:ui/r_bolder3-f41d355ef1891730cbcbe639945ad778.png:25597:image/png:1
+t:ui/r_white.fnt:ui/r_white-1ab25ba50fccaeb2d30f6fae7aa20e6a.fnt:28071:application/unknown:1
+i:ui/r_white1.png:ui/r_white1-bad2142528b9779d127896bc7cf53b0a.png:59209:image/png:1
+i:ui/r_white2.png:ui/r_white2-2cddac632263467702fd19fa014a7c49.png:47105:image/png:1
+i:ui/r_white3.png:ui/r_white3-2b8e5ca4825874a9cca222dafb0f8153.png:48724:image/png:1
 t:ui/uiskin.atlas:ui/uiskin-a209e81722e700628a54da042464ea51.atlas:2892:application/unknown:1
-t:ui/uiskin.json:ui/uiskin-f955135ca176150248ca5ad8bc9483ca.json:2843:application/unknown:1
-i:ui/uiskin.png:ui/uiskin-e04759dbd482b3d873a5473675176d04.png:22779:image/png:1
+t:ui/uiskin.json:ui/uiskin-9c6b27da4ae7768f54606f39cdbfa2c4.json:2844:application/unknown:1
+t:ui/uiskin2.atlas:ui/uiskin2-a209e81722e700628a54da042464ea51.atlas:2892:application/unknown:1
+t:ui/uiskin2.json:ui/uiskin2-4f3d4c34dfe819dd30582f67abfa4866.json:2843:application/unknown:1
+t:ui/uiskin3.atlas:ui/uiskin3-a209e81722e700628a54da042464ea51.atlas:2892:application/unknown:1
+t:ui/uiskin3.json:ui/uiskin3-5bc464e096618bcac2c1e13da7759f2c.json:2843:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
