@@ -3,13 +3,9 @@
 .lwjgl/3.3.3+5/x64/jemalloc.dll
 .lwjgl/3.3.3+5/x64/lwjgl.dll
 .lwjgl/3.3.3+5/x64/lwjgl_opengl.dll
-audio/click.mp3
-audio/declick.mp3
 audio/down.mp3
-audio/enter.mp3
 audio/hover.mp3
 audio/up.mp3
-audio/up_old.mp3
 font/LICENSE.txt
 font/Roboto-Black.ttf
 font/Roboto-BlackItalic.ttf
@@ -23,20 +19,6 @@ font/Roboto-MediumItalic.ttf
 font/Roboto-Regular.ttf
 font/Roboto-Thin.ttf
 font/Roboto-ThinItalic.ttf
-font/r_black.fnt
-font/r_black.png
-font/r_bold.fnt
-font/r_bold.png
-font/r_bolder.fnt
-font/r_bolder1.png
-font/r_bolder2.png
-font/r_bolder3.png
-font/r_med.fnt
-font/r_med.png
-font/r_white.fnt
-font/r_white1.png
-font/r_white2.png
-font/r_white3.png
 letters/BACKSPACE.png
 letters/ENTER.png
 letters/SPACE.png
@@ -126,8 +108,6 @@ letters/y.png
 letters/z.png
 lexicon/dictionary.txt
 libgdx.png
-logo/LOGO5.png
-logo/LOGO6.png
 logo/logo.png
 logo/logo2.png
 tutorial/gifs/answer.gif
@@ -143,38 +123,15 @@ tutorial/how.jpg
 tutorial/how2.jpg
 tutorial/howToPlay.png
 tutorial/howToPlayInvert.png
-tutorial/howToPlayX.png
+ui/def (2).fnt
+ui/def (3).fnt
+ui/def (4).fnt
+ui/def.fnt
+ui/default.fnt
+ui/default.png
 ui/defaultTemplate.pfx
-ui/old/def (2).fnt
-ui/old/def (3).fnt
-ui/old/def (4).fnt
-ui/old/def.fnt
-ui/old/default.fnt
-ui/old/default.png
-ui/old/particle.png
-ui/old/pre_particle.png
-ui/old/r_bold.fnt
-ui/old/r_bold.png
-ui/old/r_med.fnt
-ui/old/r_med.png
-ui/old/uiskin.png
-ui/old/uiskin2.png
-ui/r_black.fnt
-ui/r_black.png
-ui/r_bolder.fnt
-ui/r_bolder1.png
-ui/r_bolder2.png
-ui/r_bolder3.png
-ui/r_white.fnt
-ui/r_white1.png
-ui/r_white2.png
-ui/r_white3.png
+ui/particle.png
+ui/pre_particle.png
 ui/uiskin.atlas
 ui/uiskin.json
 ui/uiskin.png
-ui/uiskin2.atlas
-ui/uiskin2.json
-ui/uiskin2.png
-ui/uiskin3.atlas
-ui/uiskin3.json
-ui/uiskin3.png
