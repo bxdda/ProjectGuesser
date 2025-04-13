@@ -4,12 +4,16 @@
 .lwjgl/3.3.3+5/x64/lwjgl.dll
 .lwjgl/3.3.3+5/x64/lwjgl_opengl.dll
 audio/click.mp3
+audio/correctFull.mp3
+audio/correctWord.mp3
 audio/declick.mp3
 audio/down.mp3
 audio/enter.mp3
 audio/hover.mp3
 audio/up.mp3
 audio/up_old.mp3
+audio/win.mp3
+audio/wrongWord.mp3
 font/LICENSE.txt
 font/Roboto-Black.ttf
 font/Roboto-BlackItalic.ttf
