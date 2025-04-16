@@ -10,9 +10,14 @@ audio/declick.mp3
 audio/down.mp3
 audio/enter.mp3
 audio/hover.mp3
+audio/lastTry.mp3
+audio/lastTry2.mp3
+audio/lose.mp3
+audio/open.mp3
 audio/up.mp3
 audio/up_old.mp3
 audio/win.mp3
+audio/wrongFull.mp3
 audio/wrongWord.mp3
 font/LICENSE.txt
 font/Roboto-Black.ttf
@@ -43,9 +48,97 @@ font/r_white2.png
 font/r_white3.png
 letters/BACKSPACE.png
 letters/ENTER.png
+letters/SPACE - Copy.png
 letters/SPACE.png
 letters/a.png
 letters/b.png
+letters/backup/BACKSPACE.png
+letters/backup/ENTER.png
+letters/backup/SPACE.png
+letters/backup/a.png
+letters/backup/b.png
+letters/backup/c.png
+letters/backup/d.png
+letters/backup/down/BACKSPACE.png
+letters/backup/down/ENTER.png
+letters/backup/down/SPACE.png
+letters/backup/down/a.png
+letters/backup/down/b.png
+letters/backup/down/c.png
+letters/backup/down/d.png
+letters/backup/down/e.png
+letters/backup/down/f.png
+letters/backup/down/g.png
+letters/backup/down/h.png
+letters/backup/down/i.png
+letters/backup/down/j.png
+letters/backup/down/k.png
+letters/backup/down/l.png
+letters/backup/down/m.png
+letters/backup/down/n.png
+letters/backup/down/o.png
+letters/backup/down/p.png
+letters/backup/down/q.png
+letters/backup/down/r.png
+letters/backup/down/s.png
+letters/backup/down/t.png
+letters/backup/down/u.png
+letters/backup/down/v.png
+letters/backup/down/w.png
+letters/backup/down/x.png
+letters/backup/down/y.png
+letters/backup/down/z.png
+letters/backup/e.png
+letters/backup/f.png
+letters/backup/g.png
+letters/backup/h.png
+letters/backup/hover/BACKSPACE.png
+letters/backup/hover/ENTER.png
+letters/backup/hover/SPACE.png
+letters/backup/hover/a.png
+letters/backup/hover/b.png
+letters/backup/hover/c.png
+letters/backup/hover/d.png
+letters/backup/hover/e.png
+letters/backup/hover/f.png
+letters/backup/hover/g.png
+letters/backup/hover/h.png
+letters/backup/hover/i.png
+letters/backup/hover/j.png
+letters/backup/hover/k.png
+letters/backup/hover/l.png
+letters/backup/hover/m.png
+letters/backup/hover/n.png
+letters/backup/hover/o.png
+letters/backup/hover/p.png
+letters/backup/hover/q.png
+letters/backup/hover/r.png
+letters/backup/hover/s.png
+letters/backup/hover/t.png
+letters/backup/hover/u.png
+letters/backup/hover/v.png
+letters/backup/hover/w.png
+letters/backup/hover/x.png
+letters/backup/hover/y.png
+letters/backup/hover/z.png
+letters/backup/i.png
+letters/backup/j.png
+letters/backup/k.png
+letters/backup/l.png
+letters/backup/m.png
+letters/backup/n.png
+letters/backup/o.png
+letters/backup/p.png
+letters/backup/q.png
+letters/backup/r.png
+letters/backup/s.png
+letters/backup/t.png
+letters/backup/u.png
+letters/backup/v.png
+letters/backup/w.png
+letters/backup/x.png
+letters/backup/y.png
+letters/backup/z.png
 letters/c.png
 letters/d.png
 letters/down/BACKSPACE.png
@@ -81,6 +174,36 @@ letters/e.png
 letters/f.png
 letters/g.png
 letters/h.png
+letters/hover - Copy/BACKSPACE.png
+letters/hover - Copy/ENTER.png
+letters/hover - Copy/SPACE.png
+letters/hover - Copy/a.png
+letters/hover - Copy/b.png
+letters/hover - Copy/c.png
+letters/hover - Copy/d - Copy.png
+letters/hover - Copy/d.png
+letters/hover - Copy/e.png
+letters/hover - Copy/f.png
+letters/hover - Copy/g.png
+letters/hover - Copy/h.png
+letters/hover - Copy/i.png
+letters/hover - Copy/j.png
+letters/hover - Copy/k.png
+letters/hover - Copy/l.png
+letters/hover - Copy/m.png
+letters/hover - Copy/n.png
+letters/hover - Copy/o.png
+letters/hover - Copy/p.png
+letters/hover - Copy/q.png
+letters/hover - Copy/r.png
+letters/hover - Copy/s.png
+letters/hover - Copy/t.png
+letters/hover - Copy/u.png
+letters/hover - Copy/v.png
+letters/hover - Copy/w.png
+letters/hover - Copy/x.png
+letters/hover - Copy/y.png
+letters/hover - Copy/z.png
 letters/hover/BACKSPACE.png
 letters/hover/ENTER.png
 letters/hover/SPACE.png

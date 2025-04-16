@@ -1,5 +1,5 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-4f42d13090c14f3eff77ab920365e44c.txt:3541:text/plain:1
+t:assets.txt:assets-d689caee0eda59739dc51eca4393d528.txt:6680:text/plain:1
 d:audio:audio:0:application/unknown:1
 a:audio/click.mp3:audio/click-b89a832ab527ead26429b68724df094b.mp3:1730:audio/mpeg:1
 a:audio/correctFull.mp3:audio/correctFull-8b0b6e55a88146f2b4377eb7786d97b0.mp3:48890:audio/mpeg:1
@@ -8,9 +8,14 @@ a:audio/declick.mp3:audio/declick-d26491f888df38f1df378b52b2ce7d92.mp3:2810:audi
 a:audio/down.mp3:audio/down-1aa81701277ddc291b2d42bfd64e76f2.mp3:3218:audio/mpeg:1
 a:audio/enter.mp3:audio/enter-b9df707cefc9e9702b5958d10e919e30.mp3:1994:audio/mpeg:1
 a:audio/hover.mp3:audio/hover-6a43485029beb101f7663c9a7b919214.mp3:2762:audio/mpeg:1
+a:audio/lastTry.mp3:audio/lastTry-956912f715c285e6ca2a3a343912d9be.mp3:57554:audio/mpeg:1
+a:audio/lastTry2.mp3:audio/lastTry2-4366b345737c473ad302fb7aa7180f56.mp3:7394:audio/mpeg:1
+a:audio/lose.mp3:audio/lose-a29cbb46c2e65e9ad2d12a55e87e34e2.mp3:24410:audio/mpeg:1
+a:audio/open.mp3:audio/open-772b9edcdc1c735dd2fb2e6a5c70e73c.mp3:51074:audio/mpeg:1
 a:audio/up.mp3:audio/up-072bae934544edbe7c05682020ba70c4.mp3:3074:audio/mpeg:1
 a:audio/up_old.mp3:audio/up_old-6ad3d0c24f5226502f1f524b98b82771.mp3:3770:audio/mpeg:1
 a:audio/win.mp3:audio/win-8ba464423de058de1122e4c169d039c1.mp3:54410:audio/mpeg:1
+a:audio/wrongFull.mp3:audio/wrongFull-294f9520170148e8516bf0c5495f1fde.mp3:58226:audio/mpeg:1
 a:audio/wrongWord.mp3:audio/wrongWord-6d130b9f9b3177aa83048712e7b51eb6.mp3:20018:audio/mpeg:1
 d:font:font:0:application/unknown:1
 t:font/LICENSE.txt:font/LICENSE-d273d63619c9aeaf15cdaf76422c4f87.txt:11560:text/plain:1
@@ -41,97 +46,219 @@ i:font/r_white1.png:font/r_white1-bad2142528b9779d127896bc7cf53b0a.png:59209:ima
 i:font/r_white2.png:font/r_white2-2cddac632263467702fd19fa014a7c49.png:47105:image/png:1
 i:font/r_white3.png:font/r_white3-2b8e5ca4825874a9cca222dafb0f8153.png:48724:image/png:1
 d:letters:letters:0:application/unknown:1
-i:letters/a.png:letters/a-702a591865ea3761d4217e5b6b3a67f5.png:4010:image/png:1
-i:letters/b.png:letters/b-a1e8e293f5151e049b221dbff7b4db1a.png:3603:image/png:1
-i:letters/BACKSPACE.png:letters/BACKSPACE-a320752f6d05e584210b43ba15aad1c9.png:2504:image/png:1
-i:letters/c.png:letters/c-3b346c293ccf1aefa1fdf82c4196f715.png:4603:image/png:1
-i:letters/d.png:letters/d-e25cf7cd2eef2070b582a7ffe1aa722f.png:3278:image/png:1
+i:letters/a.png:letters/a-f2b5b7139d2377bcfc8b135e0c74595e.png:5316:image/png:1
+i:letters/b.png:letters/b-bd48e654f5885303633f66e3d4e030c0.png:5460:image/png:1
+i:letters/BACKSPACE.png:letters/BACKSPACE-f55435c5f426f1af24306d1b591464ab.png:5648:image/png:1
+d:letters/backup:letters/backup:0:application/unknown:1
+i:letters/backup/a.png:letters/backup/a-702a591865ea3761d4217e5b6b3a67f5.png:4010:image/png:1
+i:letters/backup/b.png:letters/backup/b-a1e8e293f5151e049b221dbff7b4db1a.png:3603:image/png:1
+i:letters/backup/BACKSPACE.png:letters/backup/BACKSPACE-a320752f6d05e584210b43ba15aad1c9.png:2504:image/png:1
+i:letters/backup/c.png:letters/backup/c-3b346c293ccf1aefa1fdf82c4196f715.png:4603:image/png:1
+i:letters/backup/d.png:letters/backup/d-e25cf7cd2eef2070b582a7ffe1aa722f.png:3278:image/png:1
+d:letters/backup/down:letters/backup/down:0:application/unknown:1
+i:letters/backup/down/a.png:letters/backup/down/a-2efb84c2f2adb0b7985b656881af8148.png:4287:image/png:1
+i:letters/backup/down/b.png:letters/backup/down/b-61c8f664f3ed851617af78e8f9abb3b0.png:3665:image/png:1
+i:letters/backup/down/BACKSPACE.png:letters/backup/down/BACKSPACE-4f51178a4362571f80c86caa24d99f89.png:2541:image/png:1
+i:letters/backup/down/c.png:letters/backup/down/c-288d903846d1157e2acd1d260ba46532.png:4753:image/png:1
+i:letters/backup/down/d.png:letters/backup/down/d-f3f5ae083e8660ca63a50d1a1403b882.png:3372:image/png:1
+i:letters/backup/down/e.png:letters/backup/down/e-405a87614f00e2d1e512eacb6bc3133e.png:1554:image/png:1
+i:letters/backup/down/ENTER.png:letters/backup/down/ENTER-35e7edfa4de13095a701f20fae110994.png:3228:image/png:1
+i:letters/backup/down/f.png:letters/backup/down/f-8b99fe854010af07c8bc5bb46fec9047.png:1497:image/png:1
+i:letters/backup/down/g.png:letters/backup/down/g-04cfbd4d7332fa30b1d1baea99ab245c.png:4633:image/png:1
+i:letters/backup/down/h.png:letters/backup/down/h-0df9c12a2aded653e10aab39714fac0f.png:1525:image/png:1
+i:letters/backup/down/i.png:letters/backup/down/i-c06bb122c37143e2fff907448187ea10.png:1393:image/png:1
+i:letters/backup/down/j.png:letters/backup/down/j-52c0e4e6dc70df964e977c8437507e71.png:2866:image/png:1
+i:letters/backup/down/k.png:letters/backup/down/k-9bba5ea05fb870dacb9c82e77d6b39a9.png:3724:image/png:1
+i:letters/backup/down/l.png:letters/backup/down/l-d0bdd9a27a8c4dc47c96f7029999308b.png:1441:image/png:1
+i:letters/backup/down/m.png:letters/backup/down/m-824a3deea6fc2cb7352132f48b8b9996.png:3737:image/png:1
+i:letters/backup/down/n.png:letters/backup/down/n-383bd5307e39239d8a409bc3a03c521b.png:2678:image/png:1
+i:letters/backup/down/o.png:letters/backup/down/o-708e459b6682969412232c5e48f1b816.png:5033:image/png:1
+i:letters/backup/down/p.png:letters/backup/down/p-5607ad66cd844ac8e9b06ca542e48607.png:2959:image/png:1
+i:letters/backup/down/q.png:letters/backup/down/q-e03837ae2702811dd808bf35e69f213e.png:5272:image/png:1
+i:letters/backup/down/r.png:letters/backup/down/r-174c78bd5ce50361ec00da7064d4c8d4.png:3504:image/png:1
+i:letters/backup/down/s.png:letters/backup/down/s-6fdc219f890e004d5b4ac1ff08f6188d.png:5674:image/png:1
+i:letters/backup/down/SPACE.png:letters/backup/down/SPACE-4ca4d9af4575ce722a131e4825291350.png:7619:image/png:1
+i:letters/backup/down/t.png:letters/backup/down/t-965a533ebe74a9f1fac1252d9d953b4b.png:1456:image/png:1
+i:letters/backup/down/u.png:letters/backup/down/u-9aedb44b38cca3c1acc1fc4580b5765c.png:3011:image/png:1
+i:letters/backup/down/v.png:letters/backup/down/v-a16401e064999eb2019670898d9e1d6a.png:4240:image/png:1
+i:letters/backup/down/w.png:letters/backup/down/w-bd46d402fcd62e0ec044d96d778e6337.png:5868:image/png:1
+i:letters/backup/down/x.png:letters/backup/down/x-fac171c83bbd5bbec084b940c5cade2a.png:5025:image/png:1
+i:letters/backup/down/y.png:letters/backup/down/y-64e9cfc0d380468b05c6bc5f86f3d09c.png:3559:image/png:1
+i:letters/backup/down/z.png:letters/backup/down/z-8f2da384523399d3efffc0cb137d1da7.png:3150:image/png:1
+i:letters/backup/e.png:letters/backup/e-a4498ffb80eb99181466d737e85665e5.png:1537:image/png:1
+i:letters/backup/ENTER.png:letters/backup/ENTER-1845b3f6712cce52d58571c7af43fe2b.png:3167:image/png:1
+i:letters/backup/f.png:letters/backup/f-e76a9d8309992e1ed3dc253279906d8b.png:1482:image/png:1
+i:letters/backup/g.png:letters/backup/g-949319611586d63bfb00033d5ba541a0.png:4482:image/png:1
+i:letters/backup/h.png:letters/backup/h-cebdc958dd1e20316fa832107e7f315f.png:1502:image/png:1
+d:letters/backup/hover:letters/backup/hover:0:application/unknown:1
+i:letters/backup/hover/a.png:letters/backup/hover/a-b7aabfc83c8e3ce39fcff8a725038c77.png:4089:image/png:1
+i:letters/backup/hover/b.png:letters/backup/hover/b-ad8202f57ca615a024600f19f939b26c.png:3668:image/png:1
+i:letters/backup/hover/BACKSPACE.png:letters/backup/hover/BACKSPACE-9b9549214911c0e4314de5515dff96e8.png:2516:image/png:1
+i:letters/backup/hover/c.png:letters/backup/hover/c-89cb5246aa7a31418ffd8d8a240f7374.png:4647:image/png:1
+i:letters/backup/hover/d.png:letters/backup/hover/d-e78cb14c5521d4a7666a6913d8cac99b.png:3352:image/png:1
+i:letters/backup/hover/e.png:letters/backup/hover/e-319acca166ca8eba644095c33b6f3ecd.png:1530:image/png:1
+i:letters/backup/hover/ENTER.png:letters/backup/hover/ENTER-f9f7f86c37cccb22ea0bbaf7e4df475e.png:3164:image/png:1
+i:letters/backup/hover/f.png:letters/backup/hover/f-fc955264a70b484f26a96986546eb718.png:1471:image/png:1
+i:letters/backup/hover/g.png:letters/backup/hover/g-ed54c60adc9675d3a13fb5104aa50f76.png:4495:image/png:1
+i:letters/backup/hover/h.png:letters/backup/hover/h-53c74b9806d6a622db76c6f6388f9a0b.png:1497:image/png:1
+i:letters/backup/hover/i.png:letters/backup/hover/i-f6fc2c6b5e059640196147c167747269.png:1377:image/png:1
+i:letters/backup/hover/j.png:letters/backup/hover/j-78d40f017b3a033b7f7fa5d58c4b8fb3.png:2852:image/png:1
+i:letters/backup/hover/k.png:letters/backup/hover/k-4e45155122003282598c784cc29c23a1.png:3676:image/png:1
+i:letters/backup/hover/l.png:letters/backup/hover/l-65979216e45d6eea957dc2180e3cca7b.png:1420:image/png:1
+i:letters/backup/hover/m.png:letters/backup/hover/m-e72f68c4079ac91cdf1e25a241551e88.png:3644:image/png:1
+i:letters/backup/hover/n.png:letters/backup/hover/n-453dc3bf752872714fbc6a2b7f7aafa7.png:2638:image/png:1
+i:letters/backup/hover/o.png:letters/backup/hover/o-c923e1ec764dbf48cb532ad54afab4dc.png:4915:image/png:1
+i:letters/backup/hover/p.png:letters/backup/hover/p-c0c1a49e42cfdb547347037c9d7069d5.png:2923:image/png:1
+i:letters/backup/hover/q.png:letters/backup/hover/q-2998507d6fa9a3f9282f379de2b5bc21.png:5175:image/png:1
+i:letters/backup/hover/r.png:letters/backup/hover/r-99b42f6f0abf09bd3cf5e5803768ad08.png:3490:image/png:1
+i:letters/backup/hover/s.png:letters/backup/hover/s-2b86cf55a064f3ba88e680f3112f371f.png:5608:image/png:1
+i:letters/backup/hover/SPACE.png:letters/backup/hover/SPACE-ae2b2b881ab6f17ec150daf46bfc3b0f.png:7592:image/png:1
+i:letters/backup/hover/t.png:letters/backup/hover/t-7a098b77815936383fecedb4d8c86ef5.png:1437:image/png:1
+i:letters/backup/hover/u.png:letters/backup/hover/u-d63c56ba6de047ee0c965ebcbf6e2014.png:2969:image/png:1
+i:letters/backup/hover/v.png:letters/backup/hover/v-13a09e5fd865ac787d72d1d1edd56a4e.png:4189:image/png:1
+i:letters/backup/hover/w.png:letters/backup/hover/w-2cfafd6b04eaaac7cfcb3d6d0160bd23.png:5684:image/png:1
+i:letters/backup/hover/x.png:letters/backup/hover/x-aef4865c8ea88b14787a14eb7fa5a9f8.png:4940:image/png:1
+i:letters/backup/hover/y.png:letters/backup/hover/y-2f4e8646b47c8af8bc59e52d1daa2034.png:3463:image/png:1
+i:letters/backup/hover/z.png:letters/backup/hover/z-13f6399b72ce5858f5fc236979d2b39c.png:3112:image/png:1
+i:letters/backup/i.png:letters/backup/i-f47cac4d4fee63f4ca53622548441133.png:1380:image/png:1
+i:letters/backup/j.png:letters/backup/j-3b046e9ab2b30b8efb49531e2269c44a.png:2822:image/png:1
+i:letters/backup/k.png:letters/backup/k-af6ed5b0146157bfa30c0d0671511497.png:3627:image/png:1
+i:letters/backup/l.png:letters/backup/l-1b793e8b64059eda5b0190baf421c8ac.png:1427:image/png:1
+i:letters/backup/m.png:letters/backup/m-40868227c08962628fae1624f65e6bb3.png:3547:image/png:1
+i:letters/backup/n.png:letters/backup/n-14eec9960d60c3ca1dd7c3d91d869344.png:2622:image/png:1
+i:letters/backup/o.png:letters/backup/o-19a50664d8d303b54cea541bfce7fae4.png:4901:image/png:1
+i:letters/backup/p.png:letters/backup/p-5c55d08ec88812c8b28ff2adc22a66a0.png:2880:image/png:1
+i:letters/backup/q.png:letters/backup/q-78942cae937af41cdfd2af7262e836df.png:5104:image/png:1
+i:letters/backup/r.png:letters/backup/r-b44c8dc7e482192a385e7ef68ec0c400.png:3439:image/png:1
+i:letters/backup/s.png:letters/backup/s-0cf992d8ea611d8a8aad6ba1409afcd3.png:5548:image/png:1
+i:letters/backup/SPACE.png:letters/backup/SPACE-c3bbfd25857b31885462b2184aae624c.png:8322:image/png:1
+i:letters/backup/t.png:letters/backup/t-c089916fca9bd57d9744d1fad62da0f2.png:1441:image/png:1
+i:letters/backup/u.png:letters/backup/u-fb8e75f737903f8ab682f1483d200cc4.png:2935:image/png:1
+i:letters/backup/v.png:letters/backup/v-bd277624714817e00abc8f7ea5d8b7b6.png:3972:image/png:1
+i:letters/backup/w.png:letters/backup/w-a404c55e08ac95a8c5a2796b255b1dd3.png:5459:image/png:1
+i:letters/backup/x.png:letters/backup/x-43be8b89bc761e71a5ece902b84fc18d.png:4789:image/png:1
+i:letters/backup/y.png:letters/backup/y-0806940dddf12f39037de1fd720d5e07.png:3377:image/png:1
+i:letters/backup/z.png:letters/backup/z-a436a917fc27920d0ee813b0c4a5afd0.png:3075:image/png:1
+i:letters/c.png:letters/c-c536c88731ec10744979980e5bdc6a67.png:5477:image/png:1
+i:letters/d.png:letters/d-d8fe78e3f398f6c0bf93e92923ea4bb5.png:5128:image/png:1
 d:letters/down:letters/down:0:application/unknown:1
-i:letters/down/a.png:letters/down/a-2efb84c2f2adb0b7985b656881af8148.png:4287:image/png:1
-i:letters/down/b.png:letters/down/b-61c8f664f3ed851617af78e8f9abb3b0.png:3665:image/png:1
-i:letters/down/BACKSPACE.png:letters/down/BACKSPACE-4f51178a4362571f80c86caa24d99f89.png:2541:image/png:1
-i:letters/down/c.png:letters/down/c-288d903846d1157e2acd1d260ba46532.png:4753:image/png:1
-i:letters/down/d.png:letters/down/d-f3f5ae083e8660ca63a50d1a1403b882.png:3372:image/png:1
-i:letters/down/e.png:letters/down/e-405a87614f00e2d1e512eacb6bc3133e.png:1554:image/png:1
-i:letters/down/ENTER.png:letters/down/ENTER-35e7edfa4de13095a701f20fae110994.png:3228:image/png:1
-i:letters/down/f.png:letters/down/f-8b99fe854010af07c8bc5bb46fec9047.png:1497:image/png:1
-i:letters/down/g.png:letters/down/g-04cfbd4d7332fa30b1d1baea99ab245c.png:4633:image/png:1
-i:letters/down/h.png:letters/down/h-0df9c12a2aded653e10aab39714fac0f.png:1525:image/png:1
-i:letters/down/i.png:letters/down/i-c06bb122c37143e2fff907448187ea10.png:1393:image/png:1
-i:letters/down/j.png:letters/down/j-52c0e4e6dc70df964e977c8437507e71.png:2866:image/png:1
-i:letters/down/k.png:letters/down/k-9bba5ea05fb870dacb9c82e77d6b39a9.png:3724:image/png:1
-i:letters/down/l.png:letters/down/l-d0bdd9a27a8c4dc47c96f7029999308b.png:1441:image/png:1
-i:letters/down/m.png:letters/down/m-824a3deea6fc2cb7352132f48b8b9996.png:3737:image/png:1
-i:letters/down/n.png:letters/down/n-383bd5307e39239d8a409bc3a03c521b.png:2678:image/png:1
-i:letters/down/o.png:letters/down/o-708e459b6682969412232c5e48f1b816.png:5033:image/png:1
-i:letters/down/p.png:letters/down/p-5607ad66cd844ac8e9b06ca542e48607.png:2959:image/png:1
-i:letters/down/q.png:letters/down/q-e03837ae2702811dd808bf35e69f213e.png:5272:image/png:1
-i:letters/down/r.png:letters/down/r-174c78bd5ce50361ec00da7064d4c8d4.png:3504:image/png:1
-i:letters/down/s.png:letters/down/s-6fdc219f890e004d5b4ac1ff08f6188d.png:5674:image/png:1
-i:letters/down/SPACE.png:letters/down/SPACE-4ca4d9af4575ce722a131e4825291350.png:7619:image/png:1
-i:letters/down/t.png:letters/down/t-965a533ebe74a9f1fac1252d9d953b4b.png:1456:image/png:1
-i:letters/down/u.png:letters/down/u-9aedb44b38cca3c1acc1fc4580b5765c.png:3011:image/png:1
-i:letters/down/v.png:letters/down/v-a16401e064999eb2019670898d9e1d6a.png:4240:image/png:1
-i:letters/down/w.png:letters/down/w-bd46d402fcd62e0ec044d96d778e6337.png:5868:image/png:1
-i:letters/down/x.png:letters/down/x-fac171c83bbd5bbec084b940c5cade2a.png:5025:image/png:1
-i:letters/down/y.png:letters/down/y-64e9cfc0d380468b05c6bc5f86f3d09c.png:3559:image/png:1
-i:letters/down/z.png:letters/down/z-8f2da384523399d3efffc0cb137d1da7.png:3150:image/png:1
-i:letters/e.png:letters/e-a4498ffb80eb99181466d737e85665e5.png:1537:image/png:1
-i:letters/ENTER.png:letters/ENTER-1845b3f6712cce52d58571c7af43fe2b.png:3167:image/png:1
-i:letters/f.png:letters/f-e76a9d8309992e1ed3dc253279906d8b.png:1482:image/png:1
-i:letters/g.png:letters/g-949319611586d63bfb00033d5ba541a0.png:4482:image/png:1
-i:letters/h.png:letters/h-cebdc958dd1e20316fa832107e7f315f.png:1502:image/png:1
+i:letters/down/a.png:letters/down/a-da9d862aa2cf53264f53c9dc0a76d7bf.png:5369:image/png:1
+i:letters/down/b.png:letters/down/b-c9ab234396ddefd56976299e9193564d.png:5268:image/png:1
+i:letters/down/BACKSPACE.png:letters/down/BACKSPACE-18ec42e19fcf8aa66b2c9bdb68bff0ce.png:5458:image/png:1
+i:letters/down/c.png:letters/down/c-ed479dd0b9094580fb39ec926b8f12fd.png:5494:image/png:1
+i:letters/down/d.png:letters/down/d-14b5e5c578df16bb00913376fb8ff984.png:5142:image/png:1
+i:letters/down/e.png:letters/down/e-aa8d2c3edd00379829134718e310a368.png:4749:image/png:1
+i:letters/down/ENTER.png:letters/down/ENTER-b37d1c72388aa348fc78dfe3f4012e02.png:5494:image/png:1
+i:letters/down/f.png:letters/down/f-7df64db081bbdf13f3b0d8e0b19fd688.png:4728:image/png:1
+i:letters/down/g.png:letters/down/g-465a660a4afd04ff6f50cf8c1b264c59.png:5517:image/png:1
+i:letters/down/h.png:letters/down/h-8acb5d7a0042b07278246d28e138a5b1.png:4761:image/png:1
+i:letters/down/i.png:letters/down/i-f078a9bb55f929ae2b345b29c0ec2ebb.png:4622:image/png:1
+i:letters/down/j.png:letters/down/j-ff90341b8fb536ae43af59d072f34419.png:5017:image/png:1
+i:letters/down/k.png:letters/down/k-25aae87d364cc1a546f3124928e7c5fc.png:5237:image/png:1
+i:letters/down/l.png:letters/down/l-381174e7e2b85f2415c25c36e84585ad.png:4661:image/png:1
+i:letters/down/m.png:letters/down/m-4779ff3006c116a66e2f520289444afc.png:5299:image/png:1
+i:letters/down/n.png:letters/down/n-62c3fa9ccd859ce09d799b00c1cb0c87.png:5004:image/png:1
+i:letters/down/o.png:letters/down/o-905128fd14ca3dfacd5e6247d4ec0221.png:5539:image/png:1
+i:letters/down/p.png:letters/down/p-e36cad17a7c8baddb78c31373ad6fdfc.png:5055:image/png:1
+i:letters/down/q.png:letters/down/q-c618a4f2010cc9d6aa37b65d9e5fc53b.png:5655:image/png:1
+i:letters/down/r.png:letters/down/r-80adcc95af9e29aa30a1537ea6cb63fa.png:5243:image/png:1
+i:letters/down/s.png:letters/down/s-f11f90e52d2f23b48a079f4355674e15.png:5741:image/png:1
+i:letters/down/SPACE.png:letters/down/SPACE-d327dd54e2a66e6d7de4ce2908a01b1c.png:6379:image/png:1
+i:letters/down/t.png:letters/down/t-19d4537a35e5b18592a19a97ed390581.png:4680:image/png:1
+i:letters/down/u.png:letters/down/u-20030045d9b5072c24a4fedb1972a139.png:5063:image/png:1
+i:letters/down/v.png:letters/down/v-349150ba0c1a1f7cd123b82e23c33939.png:5354:image/png:1
+i:letters/down/w.png:letters/down/w-c1fc8ba7f3f831c9f18b42db558a6e30.png:5821:image/png:1
+i:letters/down/x.png:letters/down/x-f0e1134d5edbb128e2cd0d210799301b.png:5519:image/png:1
+i:letters/down/y.png:letters/down/y-5bf26628f9d0cbad40d7249a78ae3071.png:5186:image/png:1
+i:letters/down/z.png:letters/down/z-2dbbd44c759952a70e13c4d343584567.png:5107:image/png:1
+i:letters/e.png:letters/e-991d450c01cd7bb917602256a55fd342.png:4744:image/png:1
+i:letters/ENTER.png:letters/ENTER-19c7b2b50c8b002d8719dabeb5b2fd71.png:5461:image/png:1
+i:letters/f.png:letters/f-81adca1c3a3ea3d5b180e7338cfcacbf.png:4709:image/png:1
+i:letters/g.png:letters/g-e4ca5535a5f0c6afd9e50bf2bdba65d0.png:5499:image/png:1
+i:letters/h.png:letters/h-d8876e30f24cf7da4804c12657e56eac.png:4734:image/png:1
 d:letters/hover:letters/hover:0:application/unknown:1
-i:letters/hover/a.png:letters/hover/a-b7aabfc83c8e3ce39fcff8a725038c77.png:4089:image/png:1
-i:letters/hover/b.png:letters/hover/b-ad8202f57ca615a024600f19f939b26c.png:3668:image/png:1
-i:letters/hover/BACKSPACE.png:letters/hover/BACKSPACE-9b9549214911c0e4314de5515dff96e8.png:2516:image/png:1
-i:letters/hover/c.png:letters/hover/c-89cb5246aa7a31418ffd8d8a240f7374.png:4647:image/png:1
-i:letters/hover/d.png:letters/hover/d-e78cb14c5521d4a7666a6913d8cac99b.png:3352:image/png:1
-i:letters/hover/e.png:letters/hover/e-319acca166ca8eba644095c33b6f3ecd.png:1530:image/png:1
-i:letters/hover/ENTER.png:letters/hover/ENTER-f9f7f86c37cccb22ea0bbaf7e4df475e.png:3164:image/png:1
-i:letters/hover/f.png:letters/hover/f-fc955264a70b484f26a96986546eb718.png:1471:image/png:1
-i:letters/hover/g.png:letters/hover/g-ed54c60adc9675d3a13fb5104aa50f76.png:4495:image/png:1
-i:letters/hover/h.png:letters/hover/h-53c74b9806d6a622db76c6f6388f9a0b.png:1497:image/png:1
-i:letters/hover/i.png:letters/hover/i-f6fc2c6b5e059640196147c167747269.png:1377:image/png:1
-i:letters/hover/j.png:letters/hover/j-78d40f017b3a033b7f7fa5d58c4b8fb3.png:2852:image/png:1
-i:letters/hover/k.png:letters/hover/k-4e45155122003282598c784cc29c23a1.png:3676:image/png:1
-i:letters/hover/l.png:letters/hover/l-65979216e45d6eea957dc2180e3cca7b.png:1420:image/png:1
-i:letters/hover/m.png:letters/hover/m-e72f68c4079ac91cdf1e25a241551e88.png:3644:image/png:1
-i:letters/hover/n.png:letters/hover/n-453dc3bf752872714fbc6a2b7f7aafa7.png:2638:image/png:1
-i:letters/hover/o.png:letters/hover/o-c923e1ec764dbf48cb532ad54afab4dc.png:4915:image/png:1
-i:letters/hover/p.png:letters/hover/p-c0c1a49e42cfdb547347037c9d7069d5.png:2923:image/png:1
-i:letters/hover/q.png:letters/hover/q-2998507d6fa9a3f9282f379de2b5bc21.png:5175:image/png:1
-i:letters/hover/r.png:letters/hover/r-99b42f6f0abf09bd3cf5e5803768ad08.png:3490:image/png:1
-i:letters/hover/s.png:letters/hover/s-2b86cf55a064f3ba88e680f3112f371f.png:5608:image/png:1
-i:letters/hover/SPACE.png:letters/hover/SPACE-ae2b2b881ab6f17ec150daf46bfc3b0f.png:7592:image/png:1
-i:letters/hover/t.png:letters/hover/t-7a098b77815936383fecedb4d8c86ef5.png:1437:image/png:1
-i:letters/hover/u.png:letters/hover/u-d63c56ba6de047ee0c965ebcbf6e2014.png:2969:image/png:1
-i:letters/hover/v.png:letters/hover/v-13a09e5fd865ac787d72d1d1edd56a4e.png:4189:image/png:1
-i:letters/hover/w.png:letters/hover/w-2cfafd6b04eaaac7cfcb3d6d0160bd23.png:5684:image/png:1
-i:letters/hover/x.png:letters/hover/x-aef4865c8ea88b14787a14eb7fa5a9f8.png:4940:image/png:1
-i:letters/hover/y.png:letters/hover/y-2f4e8646b47c8af8bc59e52d1daa2034.png:3463:image/png:1
-i:letters/hover/z.png:letters/hover/z-13f6399b72ce5858f5fc236979d2b39c.png:3112:image/png:1
-i:letters/i.png:letters/i-f47cac4d4fee63f4ca53622548441133.png:1380:image/png:1
-i:letters/j.png:letters/j-3b046e9ab2b30b8efb49531e2269c44a.png:2822:image/png:1
-i:letters/k.png:letters/k-af6ed5b0146157bfa30c0d0671511497.png:3627:image/png:1
-i:letters/l.png:letters/l-1b793e8b64059eda5b0190baf421c8ac.png:1427:image/png:1
-i:letters/m.png:letters/m-40868227c08962628fae1624f65e6bb3.png:3547:image/png:1
-i:letters/n.png:letters/n-14eec9960d60c3ca1dd7c3d91d869344.png:2622:image/png:1
-i:letters/o.png:letters/o-19a50664d8d303b54cea541bfce7fae4.png:4901:image/png:1
-i:letters/p.png:letters/p-5c55d08ec88812c8b28ff2adc22a66a0.png:2880:image/png:1
-i:letters/q.png:letters/q-78942cae937af41cdfd2af7262e836df.png:5104:image/png:1
-i:letters/r.png:letters/r-b44c8dc7e482192a385e7ef68ec0c400.png:3439:image/png:1
-i:letters/s.png:letters/s-0cf992d8ea611d8a8aad6ba1409afcd3.png:5548:image/png:1
-i:letters/SPACE.png:letters/SPACE-c3bbfd25857b31885462b2184aae624c.png:8322:image/png:1
-i:letters/t.png:letters/t-c089916fca9bd57d9744d1fad62da0f2.png:1441:image/png:1
-i:letters/u.png:letters/u-fb8e75f737903f8ab682f1483d200cc4.png:2935:image/png:1
-i:letters/v.png:letters/v-bd277624714817e00abc8f7ea5d8b7b6.png:3972:image/png:1
-i:letters/w.png:letters/w-a404c55e08ac95a8c5a2796b255b1dd3.png:5459:image/png:1
-i:letters/x.png:letters/x-43be8b89bc761e71a5ece902b84fc18d.png:4789:image/png:1
-i:letters/y.png:letters/y-0806940dddf12f39037de1fd720d5e07.png:3377:image/png:1
-i:letters/z.png:letters/z-a436a917fc27920d0ee813b0c4a5afd0.png:3075:image/png:1
+i:letters/hover/a.png:letters/hover/a-7ec77f9db09e05d633eeab35809927a5.png:5315:image/png:1
+i:letters/hover/b.png:letters/hover/b-1cad8cb1efdc63e424358a764d48218e.png:5234:image/png:1
+i:letters/hover/BACKSPACE.png:letters/hover/BACKSPACE-4d705c39c5554185cd9df3a7ad96a061.png:5432:image/png:1
+i:letters/hover/c.png:letters/hover/c-286fa1b7e7bfeae1fce8ec4309c2c958.png:5458:image/png:1
+i:letters/hover/d.png:letters/hover/d-c23e18158272465e33f6b945539ea0ad.png:5138:image/png:1
+i:letters/hover/e.png:letters/hover/e-9cb066cb36011c89cb1cf23976cb20f9.png:4753:image/png:1
+i:letters/hover/ENTER.png:letters/hover/ENTER-cc540e344c3306fce660eee794a4bd46.png:5458:image/png:1
+i:letters/hover/f.png:letters/hover/f-d67d93810bbb09bc86fa8cf715b59b21.png:4725:image/png:1
+i:letters/hover/g.png:letters/hover/g-375fc64bd73eab5fe15a51052da3804e.png:5489:image/png:1
+i:letters/hover/h.png:letters/hover/h-ca019594d15611f29ec6ded7667ede42.png:4752:image/png:1
+i:letters/hover/i.png:letters/hover/i-5e0be8641b87fdcbb4558001a0f3609c.png:4624:image/png:1
+i:letters/hover/j.png:letters/hover/j-c39de4241db1b648e869c3cb2bd0e95e.png:5005:image/png:1
+i:letters/hover/k.png:letters/hover/k-77b681bad044e685e58253b20a0fbad1.png:5229:image/png:1
+i:letters/hover/l.png:letters/hover/l-300d57e4ed58a3aa7e345092d1384900.png:4671:image/png:1
+i:letters/hover/m.png:letters/hover/m-a1cec3ba03b74ae3327e6a358c338456.png:5206:image/png:1
+i:letters/hover/n.png:letters/hover/n-9bc3e91d748817182401d643f18e67cb.png:4996:image/png:1
+i:letters/hover/o.png:letters/hover/o-d18469039b8f60ae028c50879f673659.png:5528:image/png:1
+i:letters/hover/p.png:letters/hover/p-93cf6ac3fc8aea9f39417088e92e59c0.png:5030:image/png:1
+i:letters/hover/q.png:letters/hover/q-6d53c4a1521d5ef016d210482ef8b42b.png:5607:image/png:1
+i:letters/hover/r.png:letters/hover/r-c34126815ae0d91e8358ac04d39a559e.png:5190:image/png:1
+i:letters/hover/s.png:letters/hover/s-3b19f1909de18d94ed9457172908b4ce.png:5715:image/png:1
+i:letters/hover/SPACE.png:letters/hover/SPACE-8f2e078ccc4e61095180a362e5dfeccd.png:6343:image/png:1
+i:letters/hover/t.png:letters/hover/t-e004f181317c352a8086edc1ea69bd2a.png:4684:image/png:1
+i:letters/hover/u.png:letters/hover/u-5a6460160b4856b711160ac1749ae2df.png:5059:image/png:1
+i:letters/hover/v.png:letters/hover/v-9f4483e2cfb897b1273e7d475b23194d.png:5317:image/png:1
+i:letters/hover/w.png:letters/hover/w-3ff2bb52a0a9be00f85e5b3755990b1b.png:5718:image/png:1
+i:letters/hover/x.png:letters/hover/x-0640de44f9bd68b2f06d14f4ab92afc1.png:5477:image/png:1
+i:letters/hover/y.png:letters/hover/y-49c39b95e6b2eb762e2e363aa7fa11e8.png:5127:image/png:1
+i:letters/hover/z.png:letters/hover/z-79186db6aed5a09f140e48c57faa824c.png:5095:image/png:1
+d:letters/hover - Copy:letters/hover - Copy:0:application/unknown:1
+i:letters/hover - Copy/a.png:letters/hover - Copy/a-b7aabfc83c8e3ce39fcff8a725038c77.png:4089:image/png:1
+i:letters/hover - Copy/b.png:letters/hover - Copy/b-ad8202f57ca615a024600f19f939b26c.png:3668:image/png:1
+i:letters/hover - Copy/BACKSPACE.png:letters/hover - Copy/BACKSPACE-9b9549214911c0e4314de5515dff96e8.png:2516:image/png:1
+i:letters/hover - Copy/c.png:letters/hover - Copy/c-89cb5246aa7a31418ffd8d8a240f7374.png:4647:image/png:1
+i:letters/hover - Copy/d - Copy.png:letters/hover - Copy/d - Copy-e78cb14c5521d4a7666a6913d8cac99b.png:3352:image/png:1
+i:letters/hover - Copy/d.png:letters/hover - Copy/d-c23e18158272465e33f6b945539ea0ad.png:5138:image/png:1
+i:letters/hover - Copy/e.png:letters/hover - Copy/e-319acca166ca8eba644095c33b6f3ecd.png:1530:image/png:1
+i:letters/hover - Copy/ENTER.png:letters/hover - Copy/ENTER-f9f7f86c37cccb22ea0bbaf7e4df475e.png:3164:image/png:1
+i:letters/hover - Copy/f.png:letters/hover - Copy/f-fc955264a70b484f26a96986546eb718.png:1471:image/png:1
+i:letters/hover - Copy/g.png:letters/hover - Copy/g-ed54c60adc9675d3a13fb5104aa50f76.png:4495:image/png:1
+i:letters/hover - Copy/h.png:letters/hover - Copy/h-53c74b9806d6a622db76c6f6388f9a0b.png:1497:image/png:1
+i:letters/hover - Copy/i.png:letters/hover - Copy/i-f6fc2c6b5e059640196147c167747269.png:1377:image/png:1
+i:letters/hover - Copy/j.png:letters/hover - Copy/j-78d40f017b3a033b7f7fa5d58c4b8fb3.png:2852:image/png:1
+i:letters/hover - Copy/k.png:letters/hover - Copy/k-4e45155122003282598c784cc29c23a1.png:3676:image/png:1
+i:letters/hover - Copy/l.png:letters/hover - Copy/l-65979216e45d6eea957dc2180e3cca7b.png:1420:image/png:1
+i:letters/hover - Copy/m.png:letters/hover - Copy/m-e72f68c4079ac91cdf1e25a241551e88.png:3644:image/png:1
+i:letters/hover - Copy/n.png:letters/hover - Copy/n-453dc3bf752872714fbc6a2b7f7aafa7.png:2638:image/png:1
+i:letters/hover - Copy/o.png:letters/hover - Copy/o-c923e1ec764dbf48cb532ad54afab4dc.png:4915:image/png:1
+i:letters/hover - Copy/p.png:letters/hover - Copy/p-c0c1a49e42cfdb547347037c9d7069d5.png:2923:image/png:1
+i:letters/hover - Copy/q.png:letters/hover - Copy/q-2998507d6fa9a3f9282f379de2b5bc21.png:5175:image/png:1
+i:letters/hover - Copy/r.png:letters/hover - Copy/r-99b42f6f0abf09bd3cf5e5803768ad08.png:3490:image/png:1
+i:letters/hover - Copy/s.png:letters/hover - Copy/s-2b86cf55a064f3ba88e680f3112f371f.png:5608:image/png:1
+i:letters/hover - Copy/SPACE.png:letters/hover - Copy/SPACE-ae2b2b881ab6f17ec150daf46bfc3b0f.png:7592:image/png:1
+i:letters/hover - Copy/t.png:letters/hover - Copy/t-7a098b77815936383fecedb4d8c86ef5.png:1437:image/png:1
+i:letters/hover - Copy/u.png:letters/hover - Copy/u-d63c56ba6de047ee0c965ebcbf6e2014.png:2969:image/png:1
+i:letters/hover - Copy/v.png:letters/hover - Copy/v-13a09e5fd865ac787d72d1d1edd56a4e.png:4189:image/png:1
+i:letters/hover - Copy/w.png:letters/hover - Copy/w-2cfafd6b04eaaac7cfcb3d6d0160bd23.png:5684:image/png:1
+i:letters/hover - Copy/x.png:letters/hover - Copy/x-aef4865c8ea88b14787a14eb7fa5a9f8.png:4940:image/png:1
+i:letters/hover - Copy/y.png:letters/hover - Copy/y-2f4e8646b47c8af8bc59e52d1daa2034.png:3463:image/png:1
+i:letters/hover - Copy/z.png:letters/hover - Copy/z-13f6399b72ce5858f5fc236979d2b39c.png:3112:image/png:1
+i:letters/i.png:letters/i-a198fa04f8b20b3de508848e581b9d1d.png:4612:image/png:1
+i:letters/j.png:letters/j-9f061b3d98145753e62c1b4729893877.png:4988:image/png:1
+i:letters/k.png:letters/k-f1333149d8327a2456b2369ee2ced146.png:5218:image/png:1
+i:letters/l.png:letters/l-56f3c95efd4bb5c048032ed4a0af4bb6.png:4649:image/png:1
+i:letters/m.png:letters/m-49aa80c4672788be7b55ef6643c55d21.png:5244:image/png:1
+i:letters/n.png:letters/n-e6e93eac33428fe247c14d3578754511.png:4983:image/png:1
+i:letters/o.png:letters/o-29a4022cde682bc6897d6bac8fb96aad.png:5503:image/png:1
+i:letters/p.png:letters/p-95a58c5d13829aec70f0f81ab56b710f.png:5042:image/png:1
+i:letters/q.png:letters/q-33c86e21d26b7b8d4d34b1fa7e45450b.png:5609:image/png:1
+i:letters/r.png:letters/r-4594ad4016f82176341a69872f5cddfd.png:5211:image/png:1
+i:letters/s.png:letters/s-6cf658a2b137585e9106201a607e2a65.png:5699:image/png:1
+i:letters/SPACE - Copy.png:letters/SPACE - Copy-b069f62afbc402744879e73948384ed6.png:6984:image/png:1
+i:letters/SPACE.png:letters/SPACE-b6c9484d652e0ec1e8c1e8f1f687d71f.png:6579:image/png:1
+i:letters/t.png:letters/t-019834f14326aeda438bebeec1060a13.png:4672:image/png:1
+i:letters/u.png:letters/u-f9f671347e30b1eb36da95a8d0cea204.png:5036:image/png:1
+i:letters/v.png:letters/v-634f065549f1ee0c02aa8b005ef5293f.png:5300:image/png:1
+i:letters/w.png:letters/w-463af09a2100e4e12ec3931c7600aacc.png:5716:image/png:1
+i:letters/x.png:letters/x-1074f8d1a59b2f6868be905f5b8ff335.png:5474:image/png:1
+i:letters/y.png:letters/y-3e105cabc6d52c1f4bdc2916a40a4a63.png:5136:image/png:1
+i:letters/z.png:letters/z-eb744da3cb4024f29564e9cfdef4ba3b.png:5092:image/png:1
 d:lexicon:lexicon:0:application/unknown:1
-t:lexicon/dictionary.txt:lexicon/dictionary-cac2a7fc2658cec035051997e76b697b.txt:3875:text/plain:1
+t:lexicon/dictionary.txt:lexicon/dictionary-78026aa15441139f08071bd5019c2730.txt:3757:text/plain:1
 i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
 d:logo:logo:0:application/unknown:1
 i:logo/logo.png:logo/logo-2bc416deadcc505677b8166745161944.png:42399:image/png:1
